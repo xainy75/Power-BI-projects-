@@ -163,7 +163,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📬 Contact
 
-**Author:** xainy75
+**Author:** Zain Ul Abidin
 
 - GitHub: [@xainy75](https://github.com/xainy75)
 - Repository: [Power-BI-projects-](https://github.com/xainy75/Power-BI-projects-)
