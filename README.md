@@ -60,7 +60,7 @@ A comprehensive Power BI dashboard analyzing Uber ride data to uncover insights 
 **Dashboard Screenshots:**
 
 ![Power BI dashboard with KPI cards, trend charts, and price analysis visuals](https://github.com/user-attachments/assets/fb1df52e-dde6-48bf-be9d-75f4ccde6fdc)
-![Power BI dashboard screenshot showing additional report visuals](https://github.com/user-attachments/assets/756defad-d80c-43ca-a7fe-0bad6b442093)
+![Power BI dashboard screenshot with filters, category comparisons, and distribution charts](https://github.com/user-attachments/assets/756defad-d80c-43ca-a7fe-0bad6b442093)
 
 **Insights Delivered:**
 - Identify peak demand periods for optimal resource allocation
